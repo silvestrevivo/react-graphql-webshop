@@ -7,7 +7,6 @@ class MyApp extends App {
 
     return (
       <Container>
-        <p>_APP as a wrapper</p>
         <Page>
           <Component />
         </Page>
